@@ -1,3 +1,3 @@
 # Boilerplate
 
-- boilerplate web server
+This is the boilerplate web server
